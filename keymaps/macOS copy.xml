@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="e" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="open_bracket" />
+  </action>
+</keymap>

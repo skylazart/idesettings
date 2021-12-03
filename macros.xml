@@ -1,0 +1,14 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="513:1;32:0;152:1;520:1">:&amp;#x20;&quot;#</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorLeft" />
+      <typing text-keycode="44:0">,</typing>
+      <action id="EditorDown" />
+    </macro>
+  </component>
+</application>
