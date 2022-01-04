@@ -9,5 +9,6 @@
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>scr</mask>
+    <mask>http</mask>
   </component>
 </application>
