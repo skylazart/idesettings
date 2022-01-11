@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="http_client.http" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -10,5 +11,6 @@
     <mask>*.py</mask>
     <mask>scr</mask>
     <mask>http</mask>
+    <mask>http_client.http</mask>
   </component>
 </application>
