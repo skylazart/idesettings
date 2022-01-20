@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'estacio-enroll-bot'" />
-    <option name="defaultScopeName" value="Project 'estacio-enroll-bot'" />
-    <option name="SEARCH_SCOPE" value="Project 'estacio-enroll-bot'" />
+    <option name="customScope" value="File '…/src/havaianas_service/services/service.py'" />
+    <option name="defaultScopeName" value="File '…/src/havaianas_service/services/service.py'" />
+    <option name="SEARCH_SCOPE" value="File '…/src/havaianas_service/services/service.py'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
