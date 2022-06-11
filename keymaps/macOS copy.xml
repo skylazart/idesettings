@@ -5,4 +5,7 @@
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="open_bracket" />
   </action>
+  <action id="osmedile.intellij.stringmanip.RepeatAction">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
 </keymap>
