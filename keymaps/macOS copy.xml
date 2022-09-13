@@ -1,10 +1,14 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Jdbc.OpenConsole.New.Generate" />
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="e" />
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="open_bracket" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="osmedile.intellij.stringmanip.RepeatAction">
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
