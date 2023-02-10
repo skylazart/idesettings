@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="(Aprovação Automática) APM (Aprovação Manual) RPM (Reprovado Sem Suspeita) AMA (Análise manual) NVO (Novo) SUS (Suspensão Manual) CAN (Cancelado pelo Cliente) FRD (Fraude Confirmada) RPA (Reprovação Automática) RPP (Reprovação Por Política) APP (Aprovação Por" />
+            <option value="Oi RCS" />
           </set>
         </option>
       </SuppressingContext>
